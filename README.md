@@ -14,13 +14,12 @@
 - ✍️ Neovim, btw
 - 🖥️ Know Rust, Go, Python, HTML/CSS/JS, and C# (and bash if we are counting that)
 - 🌐 Have knowledge in networking
-- 📕 Very creative
 
-## 🧑‍💻 What I'm working on
-- 🌐 A CLI built in Go for handling HTTP requests (kinda like HTTPie but, well, with Go)
+<!-- ## 🧑‍💻 What I'm working on -->
 
 ## 🖥️ My projects
-I need to start finishing projects...
+
+![I Have Been Summoned](https://github-readme-stats.vercel.app/api/pin/?username=sxnt7x&repo=ihavebeensummoned&theme=nord&hide=prs&hide_border=true&bg_color=00000000)
 
 ## 📈 My stats
 
