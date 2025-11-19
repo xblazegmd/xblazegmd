@@ -12,7 +12,7 @@
 
 ## 🏆 My Skillset
 - Neovim btw
-- Know Rust, Go, Python, HTML/CSS/JS, and C# (and bash if we are counting that)
+- Know Rust, Go, Zig, Python, HTML/CSS/JS, and C# (and bash if we are counting that)
 - Have knowledge in networking
 
 ## 🖥️ My Projects
