@@ -20,7 +20,7 @@
 ![I Have Been Summoned](https://github-readme-stats.vercel.app/api/pin/?username=xblazegmd&repo=ihavebeensummoned&theme=nord&hide=prs&hide_border=true&bg_color=00000000)
 
 ## 🧑‍💻 What I'm working on
-I uninstalled the Command Line Tools in my Mac (and can't reinstall them since stupid storage issues) so I can't do anything 😭 (yet)
+Something to fix my procrastination
 
 ## 📈 My Stats
 
