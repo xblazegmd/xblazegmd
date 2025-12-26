@@ -10,14 +10,14 @@
 </div>
 
 
-## 🏆 My Skillset
+## 📕 My Knowledge
 - C++
 - C#
 - Rust
 - Go
 - Zig
 - HTML/CSS/JS
-- Some Networking Knowledge
+- Some networking knowledge
 
 ## 🖥️ My Projects
 <!-- ![I Have Been Summoned](https://github-readme-stats.vercel.app/api/pin/?username=xblazegmd&repo=ihavebeensummoned&theme=nord&hide=prs&hide_border=true&bg_color=00000000) -->
