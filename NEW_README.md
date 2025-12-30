@@ -1,18 +1,18 @@
 # Hello! 👋
 I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry Dash), tools, and other fun projects :)
 
-### Areas I work on
+## 🛠️ Areas I work on
 - Game Development
 - Modding (*cough cough...* [Geode](https://geode-sdk.org/))
 - Tools & CLIs
 - Networking
 
-### Projects I've made
+## 🚀 Projects I've made
 - [CommentMentions](https://github.com/xblazegmd/CommentMentions)
 - [CBF Indicator](https://github.com/xblazegmd/cbf-indicator)
 - [Are You Comment Banned?](https://github.com/xblazegmd/AreYouCommentBanned)
 
-### Tech Stack
+## 🖥️ Tech Stack
 - Python
 - C++
 - Rust
