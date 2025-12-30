@@ -1,4 +1,9 @@
+<div align="center">
+
 # Hello! 👋
+
+</div>
+
 I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry Dash), tools, and other fun projects :)
 
 ## 🛠️ Areas I work on
