@@ -9,7 +9,7 @@ I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry D
 
 ## 🚀 Projects I've made
 - [CommentMentions](https://github.com/xblazegmd/CommentMentions)
-- [CBF Indicator](https://github.com/xblazegmd/cbf-indicator) (discontinued)
+- [CBF Indicator](https://github.com/xblazegmd/cbf-indicator) *(discontinued)*
 - [Are You Comment Banned?](https://github.com/xblazegmd/AreYouCommentBanned)
 
 ## 🖥️ Tech Stack
