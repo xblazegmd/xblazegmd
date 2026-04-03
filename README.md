@@ -22,7 +22,7 @@ I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry D
 - Zig
 
 ## 💡 Some mod ideas I have ig idk
-First of all special thanks to [sSevcon](https://gdbrowser.com/u/24373814) for giving me the idea for the [OMG!](https://github.com/xblazegmd/OMG) mod (just thought I'll say that)
+First of all special thanks to [sSevcon](https://gdbrowser.com/u/24373814) for giving me the idea for the [OMG!](https://github.com/xblazegmd/OMG) mod (just thought I'd say that)
 
 Now, I have this idea that would be of making a mod to make Twitch streaming easier, by making it so you can open a sorta "stream panel" in-game, and it would allow you to control stuff in your stream (there is this one feature that is the "main selling point" but I'll keep that secret)
 
