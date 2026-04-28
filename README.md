@@ -14,12 +14,13 @@ I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry D
 - [No Empty Friend Requests](https://github.com/xblazegmd/no-empty-friend-reqs)
 - [Are You Comment Banned?](https://github.com/xblazegmd/AreYouCommentBanned)
 
-## 🖥️ Tech Stack
+## 🖥️ Stuff I know
 - Python
 - C++
 - Rust
 - Go
 - Zig
+- *(some)* SvelteKit
 
 ## 💡 Some mod ideas I have ig idk
 First of all special thanks to [sSevcon](https://gdbrowser.com/u/24373814) for giving me the idea for the [OMG!](https://github.com/xblazegmd/OMG) mod (just thought I'd say that)
