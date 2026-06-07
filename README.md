@@ -13,6 +13,7 @@ I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry D
 - [OMG!](https://github.com/xblazegmd/OMG)
 - [No Empty Friend Requests](https://github.com/xblazegmd/no-empty-friend-reqs)
 - [Are You Comment Banned?](https://github.com/xblazegmd/AreYouCommentBanned)
+- [Server Errors](https://github.com/xblazegmd/server-errors)
 
 ## 🖥️ Stuff I know
 - Python
