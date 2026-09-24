@@ -8,9 +8,8 @@ I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry D
 
 ## 🚀 Projects I've made
 - [CommentMentions](https://github.com/xblazegmd/CommentMentions)
-- [CBS Indicator](https://github.com/xblazegmd/cbs-indicator) *(not to be confused with CBF Indicator)*
+- [CBS Indicator](https://github.com/xblazegmd/cbs-indicator)
 - [OMG!](https://github.com/xblazegmd/OMG)
-- [No Empty Friend Requests](https://github.com/xblazegmd/no-empty-friend-reqs)
 - [Are You Comment Banned?](https://github.com/xblazegmd/AreYouCommentBanned)
 - [Server Errors](https://github.com/xblazegmd/server-errors)
 
