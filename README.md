@@ -17,8 +17,6 @@ I'm a 14 year old developer from Colombia who makes game mods (mainly Geometry D
 - Python
 - C++
 - Rust
-- Go
-- Zig
 - *(some)* SvelteKit
 
 #### ✝️ “I can do all things through Christ who strengthens me” - Philippians 4:13
