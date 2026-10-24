@@ -6,7 +6,6 @@ I mainly work on making mods for [Geode SDK](https://geode-sdk.org) but every on
 My main programming languages are Python, C++ and Rust, and I also know a little bit of Reverse Engineering
 
 You probably know me for some of my projects:
-
 - [User Mentions (CommentMentions)](https://github.com/xblazegmd/CommentMentions) - Adds @mentioning to Geometry Dash
 - [OMG!](https://github.com/xblazegmd/OMG) - Plays an iconic reaction whenever you beat a level
 - [Server Errors](https://github.com/xblazegmd/server-errors) - Display server errors in a more detailed way
